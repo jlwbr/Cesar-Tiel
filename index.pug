@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+.parallax-container
+  .parallax
+    img(src="https://cdn.hasselblad.com/015a3f388b5984860913a5578f0a344a9d9dd2e0_hans-thumb1.jpg")
+
+.container
+  | {% for post in site.posts %}
+  article(style="background-image: url({{ post.img }})")
+    h1
+      a(href="{{ site.baseurl }}{{ post.url }}") {{ post.title }}
+    | {{ post.excerpt }}
+    a(href="{{ site.baseurl }}{{ post.url }}" class="read-more") Lees Meer
+  | {% endfor %}
