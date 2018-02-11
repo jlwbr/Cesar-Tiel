@@ -12,43 +12,43 @@ html(lang="nl")
     link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
 
   body
-      nav
-        .nav-wrapper.indigo
-          a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
-            span.logo {{ site.name }}
-          ul(id="nav-mobile" class="right hide-on-med-and-down")
-          a( href="{{ site.baseurl }}/" data-activates="mobile-menu" class="button-collapse")
-            i.material-icons menu
-          ul.right.hide-on-med-and-down
-            |  {% assign pages_list = site.pages %}
-            |    {% for node in pages_list %}
-            |      {% if node.title != null %}
-            |        {% if node.layout == "page" %}
-            li
-              a(href="{{ node.url }}") {{ node.title }}
-            |        {% endif %}
-            |      {% endif %}
-            |    {% endfor %}
-          ul.side-nav(id="mobile-menu")
-            |  {% assign pages_list = site.pages %}
-            |    {% for node in pages_list %}
-            |      {% if node.title != null %}
-            |        {% if node.layout == "page" %}
-            li
-              a(href="{{ node.url }}") {{ node.title }}
-            |        {% endif %}
-            |      {% endif %}
-            |    {% endfor %}
+    nav
+      .nav-wrapper.indigo
+        a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
+          span.logo {{ site.name }}
+        ul(id="nav-mobile" class="right hide-on-med-and-down")
+        a( href="{{ site.baseurl }}/" data-activates="mobile-menu" class="button-collapse")
+          i.material-icons menu
+        ul.right.hide-on-med-and-down
+          |  {% assign pages_list = site.pages | sort:"weight" %}
+          |    {% for node in pages_list %}
+          |      {% if node.title != null %}
+          |        {% if node.layout == "page" %}
+          li
+            a(href="{{ node.url }}") {{ node.title }}
+          |        {% endif %}
+          |      {% endif %}
+          |    {% endfor %}
+        ul.side-nav(id="mobile-menu")
+          |  {% assign pages_list = site.pages %}
+          |    {% for node in pages_list %}
+          |      {% if node.title != null %}
+          |        {% if node.layout == "page" %}
+          li
+            a(href="{{ node.url }}") {{ node.title }}
+          |        {% endif %}
+          |      {% endif %}
+          |    {% endfor %}
             
 
-      div(id="main" role="main")
-        | {{ content }}
+    div(id="main" role="main")
+      | {{ content }}
 
-      | <!-- Compiled and minified JavaScript -->
-      script(type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js")
-      script(src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js")
-      script(src="{{ site.baseurl }}/assets/js/main.js")
-      | {% if site.dev %}
-      script(src="{{ site.baseurl }}/assets/js/live.js")
-      | {% endif %}
-      | {% include analytics.html %}
+    | <!-- Compiled and minified JavaScript -->
+    script(type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js")
+    script(src="{{ site.baseurl }}/assets/js/main.js")
+    | {% if site.dev %}
+    script(src="{{ site.baseurl }}/assets/js/live.js")
+    | {% endif %}
+    | {% include analytics.html %}

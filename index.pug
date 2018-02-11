@@ -4,7 +4,16 @@ layout: default
 
 .parallax-container
   .parallax
-    img(src="https://cdn.hasselblad.com/015a3f388b5984860913a5578f0a344a9d9dd2e0_hans-thumb1.jpg")
+      | {% responsive_image path: assets/images/home.jpg %}
+      
+.container
+  .row
+    .col.s12.m7
+      .card 
+        .card-content
+          p I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.
+        .card-action
+          a(href="#") This is a link
 
 .container
   | {% for post in site.posts %}

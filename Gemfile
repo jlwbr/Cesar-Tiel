@@ -10,18 +10,15 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.7.0"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
   gem 'jekyll-pug'
+  gem 'jekyll-responsive-image'
 end
 
-#TEMP ffi fix (as of 11-2-2018 1.9.21 fails to build)
+#TEMP ffi fix (as of 11-2-2018 version 1.9.21 fails to build)
 gem 'ffi', '1.9.18'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
