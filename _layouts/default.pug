@@ -4,9 +4,9 @@ html(lang="nl")
   head
     title {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} {% if site.description %} – {{ site.description }} {% endif %}
     | {% include meta.html %}
-    | <!--[if lt IE 9]>
-    |    script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
-    | <![endif]-->
+    <!--[if lt IE 9]>
+        script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
+    <![endif]-->
     link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css")
     link(rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml")
     link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
