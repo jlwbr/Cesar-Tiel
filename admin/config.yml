@@ -15,5 +15,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string", required: "false" , default: "{{slug}}"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: "false"}
-      - {label: "Menu weight", name: "weight", widget: "number", valueType: "int", required: "false" }
+      - {label: "Menu weight", name: "weight", widget: "number", valueType: "int", default: 0, required: "false" }
       - {label: "Body", name: "body", widget: "markdown"}
