@@ -11,9 +11,34 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string", required: false}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
-      - {label: "Menu weight", name: "weight", widget: "number", valueType: "int", default: 0, required: false }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "page"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+        required: false
+        default:
+        pattern: ['\/[-A-Za-z0-9\+&@#%?=~_|!:,.;]*[-A-Za-z0-9\+&@#%=~_|]\/', "ERROR: De permalink moet in het formaat /{naam}/ zijn"]
+
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        required: false
+
+      - label: "Menu weight"
+        name: "weight"
+        widget: "number"
+        valueType: "int"
+        default: 1
+        required: false
+
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
