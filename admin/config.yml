@@ -24,7 +24,6 @@ collections:
         name: "permalink"
         widget: "string"
         required: false
-        default:
         pattern: ['\/[-A-Za-z0-9\+&@#%?=~_|!:,.;]*[-A-Za-z0-9\+&@#%=~_|]\/', "ERROR: De permalink moet in het formaat /{naam}/ zijn"]
 
       - label: "Featured Image"
