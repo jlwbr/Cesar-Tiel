@@ -10,6 +10,7 @@ html(lang="nl")
     link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css")
     link(rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml")
     link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
+    script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
 
   body
     nav
@@ -51,4 +52,5 @@ html(lang="nl")
     | {% if site.dev %}
     script(src="{{ site.baseurl }}/assets/js/live.js")
     | {% endif %}
+    | {% include netlify.html %}
     | {% include analytics.html %}
