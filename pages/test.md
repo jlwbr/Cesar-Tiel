@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: test
+permalink: /test/
 thumbnail: /assets/images/404.jpg
 weight: '3'
 ---
