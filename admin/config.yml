@@ -24,7 +24,7 @@ collections:
         name: "permalink"
         widget: "string"
         required: false
-        pattern: ['\/[-A-Za-z0-9\+&@#%?=~_|!:,.;]*[-A-Za-z0-9\+&@#%=~_|]\/', "ERROR: De permalink moet in het formaat /{naam}/ zijn"]
+        pattern: ['\/[-A-Za-z0-9\+&@#%?=~_|!:,.;]*[-A-Za-z0-9\+&@#%=~_|]\/', "de permalink moet een slash voor en na de tekst bevatten"]
 
       - label: "Featured Image"
         name: "thumbnail"
@@ -36,7 +36,7 @@ collections:
         widget: "number"
         required: false
         valueType: "int"
-        default: 1
+        default: 0
 
       - label: "Body"
         name: "body"
