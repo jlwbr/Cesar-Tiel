@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: BuzzPrograms/Cesar-Tiel
+
+media_folder: assets/images
+
+collections:
+  - name: "Page" # Used in routes, e.g., /admin/collections/blog
+    label: "Page" # Used in the UI
+    folder: "pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Menu weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
