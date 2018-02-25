@@ -34,9 +34,9 @@ collections:
       - label: "Menu weight"
         name: "weight"
         widget: "number"
+        required: false
         valueType: "int"
         default: 1
-        required: false
 
       - label: "Body"
         name: "body"
