@@ -7,20 +7,27 @@ html(lang="nl")
     <!--[if lt IE 9]>
         script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
     <![endif]-->
-    link(rel="stylesheet" type="text/css" href="./style.css")
+    link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css")
+    | {% if page.custom_css %}
+    | {% for stylesheet in page.custom_css %}
+    link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/custom_css/{{ stylesheet }}.css")
+    | {% endfor %}
+    | {% endif %}
     link(rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml")
     link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
     script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
 
   body
     nav
-      .nav-wrapper.indigo
+      .nav-wrapper
         a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
           span.logo {{ site.name }}
         ul(id="nav-mobile" class="right hide-on-med-and-down")
         a( href="{{ site.baseurl }}/" data-activates="mobile-menu" class="button-collapse")
           i.material-icons menu
         ul.right.hide-on-med-and-down
+          li 
+            a(href="{{ site.baseurl }}/") Home
           |  {% assign pages_list = site.pages | sort:"weight" %}
           |    {% for node in pages_list %}
           |      {% if node.title != null %}
@@ -31,6 +38,8 @@ html(lang="nl")
           |      {% endif %}
           |    {% endfor %}
         ul.side-nav(id="mobile-menu")
+          li
+            a(href="{{ site.baseurl }}/") Home
           |  {% assign pages_list = site.pages %}
           |    {% for node in pages_list %}
           |      {% if node.title != null %}
@@ -40,17 +49,11 @@ html(lang="nl")
           |        {% endif %}
           |      {% endif %}
           |    {% endfor %}
-            
+          
 
     div(id="main" role="main")
       | {{ content }}
 
-    | <!-- Compiled and minified JavaScript -->
-    script(type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js")
-    script(src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js")
-    script(src="./assets/js/main.js")
-    | {% if site.dev %}
-    script(src="./assets/js/live.js")
-    | {% endif %}
+    | {% include javascript.html %}
     | {% include netlify.html %}
     | {% include analytics.html %}

@@ -2,8 +2,9 @@
 layout: page
 title: Vergoedingen
 permalink: /vergoedingen/
-thumbnail: 
+thumbnail:
 weight: 2
+custom_js: scraper
 ---
 
   <p>Oefentherapie Mensendieck en Cesar wordt alleen vanuit de basisverzekering vergoed als je een aandoening hebt die op de chronische aandoeningslijst staat. En ook dan pas vanaf de 21ste behandeling. In andere gevallen heb je een aanvullende verzekering

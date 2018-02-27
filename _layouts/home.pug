@@ -1,0 +1,60 @@
+doctype html
+html(lang="nl")
+
+  head
+    title {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} {% if site.description %} – {{ site.description }} {% endif %}
+    | {% include meta.html %}
+    <!--[if lt IE 9]>
+        script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
+    <![endif]-->
+    link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css")
+    | {% if page.custom_css %}
+    | {% for stylesheet in page.custom_css %}
+    link(rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/custom_css/{{ stylesheet }}.css")
+    | {% endfor %}
+    | {% endif %}
+    link(rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml")
+    link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
+    script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
+
+  body
+    .navbar-fixed
+      nav.transparent.z-depth-0
+        .nav-wrapper
+          a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
+            span.logo {{ site.name }}
+          ul(id="nav-mobile" class="right hide-on-med-and-down")
+          a( href="{{ site.baseurl }}/" data-activates="mobile-menu" class="button-collapse")
+            i.material-icons menu
+          ul.right.hide-on-med-and-down
+            li 
+              a(href="{{ site.baseurl }}/") Home
+            |  {% assign pages_list = site.pages | sort:"weight" %}
+            |    {% for node in pages_list %}
+            |      {% if node.title != null %}
+            |        {% if node.layout == "page" %}
+            li
+              a(href="{{ node.url }}") {{ node.title }}
+            |        {% endif %}
+            |      {% endif %}
+            |    {% endfor %}
+          ul.side-nav(id="mobile-menu")
+            li
+              a(href="{{ site.baseurl }}/") Home
+            |  {% assign pages_list = site.pages %}
+            |    {% for node in pages_list %}
+            |      {% if node.title != null %}
+            |        {% if node.layout == "page" %}
+            li
+              a(href="{{ node.url }}") {{ node.title }}
+            |        {% endif %}
+            |      {% endif %}
+            |    {% endfor %}
+            
+
+    div(id="main" role="main")
+      | {{ content }}
+
+    | {% include javascript.html %}
+    | {% include netlify.html %}
+    | {% include analytics.html %}

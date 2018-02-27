@@ -1,10 +1,17 @@
 ---
-layout: default
+layout: home
+custom_css: home
 ---
 
-.parallax-container
-  .parallax
-      | {% responsive_image path: assets/images/home.jpg %}
+#scaleable-wrapper
+  .parallax-container.center.valign-wrapper
+    .container
+      .row.white-text
+        .col.s12
+          h1.parrallax#bigtext Oefentherapie
+          h4.parrallax#bigtext Met aandacht voor wat je doet en wat je leert
+    .parallax.parrallax-picture
+        | {% responsive_image path: assets/images/home.jpg %}
       
 .container
   .row

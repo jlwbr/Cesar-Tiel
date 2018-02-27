@@ -2,7 +2,7 @@
 layout: page
 title: Wanneer oefentherapie?
 permalink: /klachten/
-thumbnail: 
+thumbnail:
 weight: 1
 ---
 
