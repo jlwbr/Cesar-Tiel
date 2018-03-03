@@ -1,7 +1,7 @@
 let name = "leenders-smits-hc"
 
 $(document).ready(function() {
-  $.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent("https://www.independer.nl/zorgverzekering/vergoedingen/oefentherapeut/") + name + '&callback=?', function(data) {
+  $.getJSON('https://allorigins.me/get?url=' + encodeURIComponent("https://www.independer.nl/zorgverzekering/vergoedingen/oefentherapeut/") + name, function(data) {
     let content = data.contents
     let parsed = content.match(/<table id="tableVerzekeraars" class="vergelijkTable">[\s|\S]*?<\/table>/g)[0];
     $('#table').replaceWith(parsed);
