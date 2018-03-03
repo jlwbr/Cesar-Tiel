@@ -12,7 +12,7 @@ custom_js: scraper
   <P>Heb je een budgetpolis of naturapolis? Dan is het van belang dat wij een contract heeft afgesloten met je zorgverzekeraar. Anders betaal je een deel van de rekening mogelijk zelf. In het overzicht hieronder kun je zien of dit zo is.</P><input type="text"
       id="search" placeholder="Zoek verzekering" />
   <div id="table">
-      <table id="tableVerzekeraars" class="vergelijkTable bordered">
+      <table id="tableBackupStatic" class="vergelijkTable bordered">
           <thead>
               <tr class="header">
                   <th class="title">Naam basisverzekering</th>
