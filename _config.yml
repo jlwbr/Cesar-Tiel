@@ -2,9 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-#Is this a dev env?
-dev: true
-
 # Name of your site (displayed in the header)
 name: oefentherapie cesar tiel
 
@@ -92,6 +89,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-pug
   - jekyll-responsive-image
+  - environment_variables
 
 # Exclude these files from your production _site
 exclude:
