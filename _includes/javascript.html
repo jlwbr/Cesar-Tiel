@@ -3,7 +3,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 <script src="{% link /assets/js/jquery.fittext.js%}"></script>
 <script src="{% link /assets/js/main.js%}"></script>
-{% if site.env != 'production' %}
+{% if jekyll.environment != "production" %}
 <script src="{% link /assets/js/live.js %}"></script>
 {% endif %}
 {% if page.custom_js %}
