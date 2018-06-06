@@ -19,7 +19,7 @@ group :jekyll_plugins do
 end
 
 #TEMP ffi fix (as of 11-2-2018 version 1.9.21 fails to build)
-gem 'ffi', '1.9.18'
+# gem 'ffi', '1.9.18'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
