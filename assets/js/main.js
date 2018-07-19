@@ -1,8 +1,6 @@
 $(document).ready(function(){
   // MODAL
-  $(".button-collapse").sideNav();
-  $('.parallax').parallax();
-  jQuery("#bigtext").fitText();
+  $(".sidenav").sidenav();
 });
 
 var header = $('header');
@@ -23,4 +21,30 @@ $(window).on('scroll', function () {
     header.css({ 'opacity': 0 });
   }
 
+});
+ 
+$(function() {
+  var i = 0;
+  var img = window.getComputedStyle($('header')[0], ':before').getPropertyValue('background-image').split(",");
+  var styleElem = document.head.appendChild(document.createElement("style"));
+  // set `$.fx.interval` at `0`
+  $.fx.interval = 0;
+  (function cycleBgImage(elem, bgimg) {
+// `elem`:`#slideshow`
+// set, reset, delay to `1000` after background image reset
+  styleElem.innerHTML = "header:before {background-image: "+ bgimg +";}";
+  // fade in background image
+    // set `delay` before fadeing out image
+    // fade in background image        
+    setTimeout( function() {
+      // split background image string at comma , creating array
+        if(i == img.length){ i = 0 }
+        // concat first background image to `img` array,
+        // remove first background image from `img` array
+        bgimg = img[i]
+        i += 1
+      // recursively call `cycleBgImage`
+      cycleBgImage(elem, bgimg);
+    }, 4000);
+  }($("header")));
 });

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bekkenoefentherapie
+title: 
 permalink: /bekkenoefentherapie/
 thumbnail:
 weight: 4

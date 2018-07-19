@@ -22,8 +22,7 @@ html(lang="nl")
       .nav-wrapper
         a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
           span.logo {{ site.name }}
-        ul(id="nav-mobile" class="right hide-on-med-and-down")
-        a( href="{{ site.baseurl }}/" data-activates="mobile-menu" class="button-collapse")
+        a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
           i.material-icons menu
         ul.right.hide-on-med-and-down
           li 
@@ -37,30 +36,24 @@ html(lang="nl")
           |        {% endif %}
           |      {% endif %}
           |    {% endfor %}
-        ul.side-nav(id="mobile-menu")
-          li
-            a(href="{{ site.baseurl }}/") Home
-          |  {% assign pages_list = site.pages %}
-          |    {% for node in pages_list %}
-          |      {% if node.title != null %}
-          |        {% if node.layout == "page" %}
-          li
-            a(href="{{ node.url }}") {{ node.title }}
-          |        {% endif %}
-          |      {% endif %}
-          |    {% endfor %}
+
+    ul.sidenav(id="mobile-menu")
+      li
+        a(href="{{ site.baseurl }}/") Home
+      |  {% assign pages_list = site.pages %}
+      |    {% for node in pages_list %}
+      |      {% if node.title != null %}
+      |        {% if node.layout == "page" %}
+      li
+        a(href="{{ node.url }}") {{ node.title }}
+      |        {% endif %}
+      |      {% endif %}
+      |    {% endfor %}
             
     #nav-bg
     
     header
-      #scaleable-wrapper
-        .parallax-container.center.valign-wrapper
-          .container
-            .row.white-text
-              .col.s12
-                h1.parrallax#bigtext Oefentherapie
-                h4.parrallax#bigtext Met aandacht voor wat je doet en wat je leert
-
+    
     div(id="main" role="main")
       | {{ content }}
 

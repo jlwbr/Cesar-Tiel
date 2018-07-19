@@ -3,13 +3,28 @@ layout: page
 title: Vergoedingen
 permalink: /vergoedingen/
 thumbnail:
-weight: 2
+weight: 3
 custom_js: scraper
 ---
 
-  <p>Oefentherapie Mensendieck en Cesar wordt alleen vanuit de basisverzekering vergoed als je een aandoening hebt die op de chronische aandoeningslijst staat. En ook dan pas vanaf de 21ste behandeling. In andere gevallen heb je een aanvullende verzekering
-      nodig om je te verzekeren voor oefentherapie.</p>
-  <P>Heb je een budgetpolis of naturapolis? Dan is het van belang dat wij een contract heeft afgesloten met je zorgverzekeraar. Anders betaal je een deel van de rekening mogelijk zelf. In het overzicht hieronder kun je zien of dit zo is.</P><input type="text"
+## Vergoeding
+
+Patiënten onder de 18 jaar, zonder chronische indicatie krijgen 18 behandelingen per jaar vergoed uit de basis verzekering. Het aantal behandelingen daarna, dat uit de aanvullende verzekering vergoed wordt is afhankelijk van het gekozen pakket.
+
+Patiënten boven de 18 jaar, met een chronische indicatie krijgen vanaf de tiende behandeling 100% vergoed vanuit de basisverzekering. De eerste 9 door u gekozen behandelingen worden meestal vergoed vanuit de aanvullende verzekering.
+
+Patiënten boven de 18 jaar, zonder chronische idicatie krijgen de behandelingen vergoed uit de aanvullende verzekeringen, afhankelijk van het door u gekozen aanvullend pakket.
+
+
+
+Controleert u voor aanvang van de behandeling de polis van uw verzekering. Neemt u bij de eerste behandeling uw verzekeringspas mee. Behandelingen worden vergoed conform de polisvoorwaarden van uw aanvullende verzekering.
+De oefentherapeuten Cesar hebben met alle zorgverzekeraars een contract.
+
+
+
+Voor behandelingen die niet tenmiste 24 uur van te voren zijn afgezegd, heeft de therapeut het recht de patiënt of cliënt het wettelijk vastgestelde verzuimtarief in rekening te brengen. Afzegging van een behandelafspraak op maandag dient de vrijdag voorafgaand aan de betreffende maandag uiterlijk om 18.00 uur te zijn geschied, anders zal deze in rekening worden gebracht.
+
+<input type="text"
       id="search" placeholder="Zoek verzekering" />
   <div id="table">
       <table id="tableBackupStatic" class="vergelijkTable bordered">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schrot best practice therapie
+title: 
 permalink: /schrot/
 thumbnail:
 weight: 4

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Wanneer oefentherapie?
+title: Specialisaties
 permalink: /klachten/
 thumbnail:
-weight: 1
+weight: 2
 ---
 
   <h4>Welke klachten en aandoeningen worden behandeld?</h4>
@@ -75,15 +75,6 @@ weight: 1
               <li>klachten aan nek en schouder (KANS)</li>
               <li>klachten t.g.v. beeldschermwerk</li>
               <li>rugklachten bij tilberoepen, o.a. in de zorgsector, bouw en logistiek\</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>Achterblijvende motorische ontwikkeling bij kinderen:</h5>
-          <ul>
-              <li>grove en fijne motoriek</li>
-              <li>sensomotoriek</li>
-              <li>schrijfproblemen</li>
-              <li>Bekkenklachten:</li>
           </ul>
       </div>
       <div class="col s12 m4">
