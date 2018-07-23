@@ -12,4 +12,4 @@ De oefentherapeut biedt hulp bij rug- en nekklachten, pijn in de gewrichten (bek
 
 Hieronder een youtube filmpje over oefentherapie cesar.
 
-youtube u6mbFQ5jryM
+[![Youtube Video](http://img.youtube.com/vi/u6mbFQ5jryM/0.jpg)](http://www.youtube.com/watch?v=u6mbFQ5jryM)
