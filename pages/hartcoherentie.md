@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HARTCOHERENTIE
+title: 
 permalink: /HARTCOHERENTIE/
 weight: 0
 ---
