@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PSYCHOSOMATISCHE OEFENTHERAPIE
+title: 
 permalink: /psychosomatische-oefentherapie/
 weight: 0
 ---
