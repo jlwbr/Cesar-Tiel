@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slaapoefentherapie
+title: 
 permalink: /slaapoefentherapie/
 weight: 0
 ---
