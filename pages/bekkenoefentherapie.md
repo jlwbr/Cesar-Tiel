@@ -1,13 +1,23 @@
 ---
 layout: page
-title: 
-permalink: /bekkenoefentherapie/
-thumbnail:
-weight: 4
+title: Bekkenoefentherapie
+permalink: /bekkenoefenterapie/
+weight: 0
 ---
+# Wat is bekkenoefentherapie
 
-bekkenklachten kunnen ontstaan tijdens de zwangerschap of na de bevalling door o.a. hormonen, overbelasting, stress, trauma ect.  Inmiddels werk ik vanaf 1998 middels de methode van Cecile Röst, zij is fysiotherapeute die zelf bekkeninstabiliteit heeft gehad tijdens haar eerste twee zwangerschappen. In haar derde zwangerschap heet zij ervaren dat een andere manier van bewegen de klachten deed verminderen. Sindsdien geeft zij scholing/cursussen aan fysio/oefentherapeuten. Daarnaast ben ik bij het Spine&Joint Centrum geweest en diverse andere scholingen rondom de behandeling van bekkenpijn gevolgd.
-Patiënte worden verwezen door de verloskundigen, huisartsen en specialisten. Een verwijzing is niet nodig, de oefentherapie is direct toegankelijk.
+Bekkenoefentherapie is voor  volwassenen en kinderen die klachten ervaren rondom de lage rug, bekken en/of bekkenbodem. Mijn interesse naar het behandelen van de bekkenproblematiek gaat jaren terug. 
 
-Problemen aan het bekken-lage rug komen ook voor bij mannen en bij vrouwen, ze zijn dus niet per definitie zwangerschap gerelateerd.
-Vanaf 2012 ben ik gespecialiseerd Bekkenoefentherapeut+. De regeistratie staat vermeld in het register van Bekkenoefentherapeuten van de VvOCV. Deze deelname houdt in dat er aan alle scholingseisen, deelname aan intercollegiale werkgroepen, multidisciplinair overleg is met Verloskundigen en de Bekkenfysiotherapeut. Daarnaast worden er door mij workshops zwangerschap begeleiding gegeven binnen het Zwangeren in Beweging project.
+In 1998 ben ik bij Cecile Röst de cursus bekkenpijn gaan volgen,  opdat er destijds een verandering kwam in de behandeling van deze specifieke klachten. Vervolgens heb ik diverse scholingen gevolg, mij gespecialiseerd en geregistreerd bij de VVOCM en in de afgelopen jaren veel ervaring opgedaan tijdens het behandelen en begeleiden van deze patiëntengroep. Dat doe ik met veel passie, zorg en betrokkenheid.. 
+
+Tijdens de behandeling bij bekkenoefentherapeut, wordt er samen met de patiënt, een voor hem/haar belangrijkste doel opgesteld en een plan/behandelprogramma gemaakt wat passend is. Herstel van de bekkenfunctie in samenwerking met de rest van het lichaam, staat voorop. Er worden gerichte oefeningen gegeven, waardoor de patiënt bewust wordt van de houding en manier van bewegen. De houdings- en bewegingsadviezen die toegepast kunnen worden in dagelijks leven, werk en sport. Door de oefeningen te herhalen en het corrigeren van de houding regelmatig aan te passen, leert de patiënt deze toe te passen in de zittende, staande, loop en bukbewegingen. De ademhaling speelt een zeer belangrijke rol tijdens het bewegen, mn voor een goed gebruik van de dieper gelegen stabiliserende spieren, waaronder de bekkenbodem.
+
+Als geregistreerd bekkenoefentherapeut werk ik samen met de Bekkenfysiotherapeut. Zowel de bekkenoefentherapeut als de bekkenfysiotherapeut hebben zich gespecialiseerd in het behandelen van bekken- en bekkenbodemproblematiek. Zij hebben specifieke scholing gevolgd volgens de richtlijn van de beroepsvereniging VvOCM en de KNGF, zij zijn als zodanig intern geregistreerd.
+
+Oefentherapie Cesar/Mensendieck is een paramedische behandelmethode, gericht op de behandeling en voorkoming van klachten die het gevolg zijn van een onjuist houdings-en bewegingspatroon of een bepaalde afwijking of ziekte.
+
+Meer informatie over Bekkenoefentherapie en oefentherapie Cesar/Mensendieck en kunt u vinden op:
+
+- www.oefentherapiepassewaaij.nl, waarin informatie staat over de individuele zwangerschapscursus en de ZIB sportgroep voor zwangeren, waarin een aantal workshops gegeven worden verspreid over het jaar specifiek voor de zwangeren
+- de website van de VvOCM de vereniging van oefentherapeuten Cesar en Mensendieck 
+- You-Tube: “Bekkenoefentherapie” ( filmpje over de bekkenoefentherapeut)
