@@ -9,6 +9,10 @@ nav {z-index: 3;}
 header {z-index: 2;}
 #nav-bg {z-index: 1;}
 
+.card.tiny {
+  background-image: url('https://via.placeholder.com/100x150s')
+}
+
 .card.tiny .card-action {
   position: absolute;
   bottom: 0;
@@ -44,11 +48,7 @@ header {
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url(#{$assets_url}assets/images/home.jpg),
-    url("https://picsum.photos/5000/3000?image=0"), 
-    url("https://picsum.photos/5000/3000?image=1"), 
-    url("https://picsum.photos/5000/3000?image=2"), 
-    url("https://picsum.photos/5000/3000?image=3");
+    background-image: url(#{$assets_url}assets/images/home.jpg);
   	background-size: cover;
 		background-repeat: no-repeat;
     background-position: 65% 50%;
@@ -60,7 +60,7 @@ header {
 }
 
 #nav-bg {
-  background: #ee6e73;
+  background: #f27f13;
   position: fixed;
   height: 65px;
   width: 100%;

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Specialisaties
+title: Klachten
 permalink: /klachten/
 thumbnail:
 weight: 2
