@@ -1,86 +1,219 @@
 ---
 layout: page
-title: Klachten
-permalink: /klachten/
-thumbnail:
+title: Wanneer oefentherapie
+permalink: /wanneer-oefentherapie/
 weight: 2
 ---
+<div class="content_main_dho cm-container-large" id="content_main" data-cm-hintable="yes" cm-content=""><h1 style="text-align: center;"><span style="color: #3366ff; font-size: xx-large;"><strong>Wanneer oefentherapie Cesar</strong></span><span style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #3366ff; font-size: xx-large;"><strong> </strong></span><br></span></h1><p>Hieronder vind je een uitgebreid overzicht van klachten die een oefentherapeut behandeld.&nbsp;<br>Klachten waar een * achter staat, behandel ik regelmatig in mijn praktijk.&nbsp;</p><h2><span style="color: #800080;"><strong>Algemeen</strong></span></h2><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515327" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515327" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515327"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Algemene%20oefentherapie.pdf?_=16131d08688&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Houding- en bewegingstherapie (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Algemene%20oefentherapie.pdf?cdp=a&amp;_=16131d08688">Folder - Algemene oefentherapie.pdf</a>&nbsp;(282.1KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Houding- en bewegingstherapie (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Algemene%20oefentherapie.pdf?_=16131d08688&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Algemene%20oefentherapie.pdf?cdp=a&amp;_=16131d08688">Folder - Algemene oefentherapie.pdf</a>&nbsp;(282.1KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515333" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515333" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515333"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Arm- nek- en schouderklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Arm- nek- en schouderklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515339" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515339" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515339"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Heup-knie-%20en%20voetklachten.pdf?_=16131d082a0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Heup- knie- en voetklachten</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Heup-knie-%20en%20voetklachten.pdf?cdp=a&amp;_=16131d082a0">Folder - Heup-knie- en voetklachten.pdf</a>&nbsp;(445.42KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Heup- knie- en voetklachten</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Heup-knie-%20en%20voetklachten.pdf?_=16131d082a0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Heup-knie-%20en%20voetklachten.pdf?cdp=a&amp;_=16131d082a0">Folder - Heup-knie- en voetklachten.pdf</a>&nbsp;(445.42KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515343" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515343" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515343"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Ademregulatie (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Ademregulatie (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515355" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515355" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515355"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arbeidsrelevante%20klachten.pdf?_=16131d082a0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Arbeidsgerelateerde klachten / verbeteren werkhouding (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arbeidsrelevante%20klachten.pdf?cdp=a&amp;_=16131d082a0">Folder - Arbeidsrelevante klachten.pdf</a>&nbsp;(888.61KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Arbeidsgerelateerde klachten / verbeteren werkhouding (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arbeidsrelevante%20klachten.pdf?_=16131d082a0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arbeidsrelevante%20klachten.pdf?cdp=a&amp;_=16131d082a0">Folder - Arbeidsrelevante klachten.pdf</a>&nbsp;(888.61KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515400" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515400" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515400"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?_=16131d06b30&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Lage rugklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?cdp=a&amp;_=16131d06b30">Folder - Lage rugklachten.pdf</a>&nbsp;(850.79KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Lage rugklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?_=16131d06b30&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?cdp=a&amp;_=16131d06b30">Folder - Lage rugklachten.pdf</a>&nbsp;(850.79KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515425" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515425" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515425"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Vitaal%20ouder%20worden.pdf?_=16131d06360&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Vitaal ouder worden (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Vitaal%20ouder%20worden.pdf?cdp=a&amp;_=16131d06360">Folder - Vitaal ouder worden.pdf</a>&nbsp;(543.35KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Vitaal ouder worden (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Vitaal%20ouder%20worden.pdf?_=16131d06360&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Vitaal%20ouder%20worden.pdf?cdp=a&amp;_=16131d06360">Folder - Vitaal ouder worden.pdf</a>&nbsp;(543.35KB)</td></tr></tbody></table></div></div><ul><li>Revalidatie </li><li>Gevolgen van chronische aandoeningen (*)</li><li>Klachten aan bewegingsapparaat bij mensen met chronische aandoeningen (*)<br></li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829086" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829086" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829086"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Neurologische aandoeningen</strong></span><br></h1><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515523" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515523" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515523"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Spanningshoofdpijn.pdf?_=16131d06748&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Spanningshoofdpijn en migraine (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Spanningshoofdpijn.pdf?cdp=a&amp;_=16131d06748">Folder - Spanningshoofdpijn.pdf</a>&nbsp;(888.59KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Spanningshoofdpijn en migraine (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Spanningshoofdpijn.pdf?_=16131d06748&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Spanningshoofdpijn.pdf?cdp=a&amp;_=16131d06748">Folder - Spanningshoofdpijn.pdf</a>&nbsp;(888.59KB)</td></tr></tbody></table></div></div><ul><li>Cervicaal syndroom / brachialgie (*)</li><li>Ischialgie / radiculair syndroom (*)</li><li>H.N.P. (Conservatief, pre- en postoperatief) (*)<br></li><li>C.V.A.</li><li>M. Parkinson</li><li>Multiple Sclerose</li><li>Whiplash</li><li>Spierziekten</li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829101" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829101" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829101"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Orthopedische aandoeningen</strong></span><br></h1><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515530" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515530" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515530"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Arm- nek- en schouderklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Arm- nek- en schouderklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515565" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515565" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515565"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Scoliose.pdf?_=16131d93d00&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Scoliose (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Scoliose.pdf?cdp=a&amp;_=16131d93d00">Folder - Scoliose.pdf</a>&nbsp;(488.68KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Scoliose (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Scoliose.pdf?_=16131d93d00&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Scoliose.pdf?cdp=a&amp;_=16131d93d00">Folder - Scoliose.pdf</a>&nbsp;(488.68KB)</td></tr></tbody></table></div></div><ul><li>Houdingsanomalieën (*)</li><li>Degeneratieve afwijkingen (*)</li><li>Groeistoornissen (zoals M. Scheuermann)<br></li><li>Standafwijkingen van gewrichten<br></li><li>Surmenage (*)</li><li>Hypermobiliteit (*)</li><li>Contracturen</li><li>Revalidatie na trauma en chirurgische ingrepen</li><li>Osteoporose<br></li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829114" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829114" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829114"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Respiratoire aandoeningen</strong></span><br></h1><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515574" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515574" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515574"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Dysfunctionele ademhaling zoals hyperventilatie (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Dysfunctionele ademhaling zoals hyperventilatie (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div></div><ul><li>COPD<br></li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829117" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829117" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829117"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Reumatologische aandoeningen</strong></span><br></h1><ul><li>Reumatoïde arthritis (*)<br></li><li>Arthrosis deformans (*)<br></li><li>M.Bechterew</li><li><div style="text-align: justify;">Fibromyalgie (*)</div></li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829118" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829118" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829118"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Gynaecologische aandoeningen&nbsp;</strong></span><br></h1><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515586" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515586" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515586"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Bekkenklachten%20bij%20zwangerschap.pdf?_=16131d07ad0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Zwangerschapsproblematiek (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Bekkenklachten%20bij%20zwangerschap.pdf?cdp=a&amp;_=16131d07ad0">Folder - Bekkenklachten bij zwangerschap.pdf</a>&nbsp;(1010.71KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Zwangerschapsproblematiek (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Bekkenklachten%20bij%20zwangerschap.pdf?_=16131d07ad0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Bekkenklachten%20bij%20zwangerschap.pdf?cdp=a&amp;_=16131d07ad0">Folder - Bekkenklachten bij zwangerschap.pdf</a>&nbsp;(1010.71KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515612" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515612" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515612"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Incontinentieklachten.pdf?_=16131d06f18&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Bekkenbodemproblematiek en incontinentie</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Incontinentieklachten.pdf?cdp=a&amp;_=16131d06f18">Folder - Incontinentieklachten.pdf</a>&nbsp;(490.22KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Bekkenbodemproblematiek en incontinentie</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Incontinentieklachten.pdf?_=16131d06f18&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Incontinentieklachten.pdf?cdp=a&amp;_=16131d06f18">Folder - Incontinentieklachten.pdf</a>&nbsp;(490.22KB)</td></tr></tbody></table></div></div><ul><li>Bekkenklachten (*)<br></li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_Separator_1829119" class="cm_widget_block      cm_widget cm4all_com_widgets_Separator cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_Separator_1829119" id="widgetanchor_STRATP_cm4all_com_widgets_Separator_1829119"><!--cm4all.com.widgets.Separator--></a></div><div style="position: relative; width: 100%;"><div style="border-top: 4px solid #3366ff; margin: 1.2em 0em 1.2em 0em;"></div></div></div><h1><span style="color: #800080;"><strong>Spanningsklachten en klachten door overbelasting&nbsp;</strong></span><span style="color: #202022; font-size: large;">&nbsp;</span></h1><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515634" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515634" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515634"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?_=16131dc55f8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Stress / burn-out (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?cdp=a&amp;_=16131dc55f8">Brochure ACT.pdf</a>&nbsp;(506.17KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Stress / burn-out (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?_=16131dc55f8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?cdp=a&amp;_=16131dc55f8">Brochure ACT.pdf</a>&nbsp;(506.17KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515681" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515681" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515681"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?_=16131dc55f8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Spanningsklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?cdp=a&amp;_=16131dc55f8">Brochure ACT.pdf</a>&nbsp;(506.17KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Spanningsklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?_=16131dc55f8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Brochure%20ACT.pdf?cdp=a&amp;_=16131dc55f8">Brochure ACT.pdf</a>&nbsp;(506.17KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515759" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515759" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515759"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Slaapoefentherapie%20brochure%202018.pdf?_=16131d0ffa0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Slaapstoornissen (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Slaapoefentherapie%20brochure%202018.pdf?cdp=a&amp;_=16131d0ffa0">Slaapoefentherapie brochure 2018.pdf</a>&nbsp;(794.5KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Slaapstoornissen (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Slaapoefentherapie%20brochure%202018.pdf?_=16131d0ffa0&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Slaapoefentherapie%20brochure%202018.pdf?cdp=a&amp;_=16131d0ffa0">Slaapoefentherapie brochure 2018.pdf</a>&nbsp;(794.5KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515710" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515710" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515710"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Hyperventilatie (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Hyperventilatie (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?_=16131d08a70&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Ademhalingsklachten.pdf?cdp=a&amp;_=16131d08a70">Folder - Ademhalingsklachten.pdf</a>&nbsp;(1.07MB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515723" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515723" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515723"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?_=16131d06b30&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Lage rugklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?cdp=a&amp;_=16131d06b30">Folder - Lage rugklachten.pdf</a>&nbsp;(850.79KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Lage rugklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?_=16131d06b30&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Lage%20rugklachten.pdf?cdp=a&amp;_=16131d06b30">Folder - Lage rugklachten.pdf</a>&nbsp;(850.79KB)</td></tr></tbody></table></div></div><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_DownloadWidget_13515733" class="cm_widget_block      cm_widget cm4all_com_widgets_DownloadWidget cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_DownloadWidget_13515733" id="widgetanchor_STRATP_cm4all_com_widgets_DownloadWidget_13515733"><!--cm4all.com.widgets.DownloadWidget--></a></div><script type="text/javascript">Common.loadCss("/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//show.css");</script><div style="width:100%;" class="widget-wide cm-download-widget"><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><b>Arm- nek- en schouderklachten (*)</b><br><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div><div style="width:100%;" class="widget-small cm-download-widget"><b>Arm- nek- en schouderklachten (*)</b><br><table style="max-width:100%;"><tbody><tr><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?_=16131d07eb8&amp;cdp=a"><img style="border:none;" src="/.cm4all/widgetres.php/cm4all.com.widgets.DownloadWidget//mime_pdf.png"></a></td><td><a href="/.cm4all/uproc.php/0/Folders/Folder%20-%20Arm-nek-%20en%20schouderklachten.pdf?cdp=a&amp;_=16131d07eb8">Folder - Arm-nek- en schouderklachten.pdf</a>&nbsp;(969.11KB)</td></tr></tbody></table></div></div><ul><li>Cervicobrachialgie (*)</li><li>Bewegingsangst (*)</li></ul><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_cm4all_com_widgets_UroPhoto_16633440" class="cm_widget_block      cm_widget cm4all_com_widgets_UroPhoto cm_widget_block_center cm-pixel-large" style="width: 100%; max-width: 1654px;"><div class="cm_widget_anchor"><a name="STRATP_cm4all_com_widgets_UroPhoto_16633440" id="widgetanchor_STRATP_cm4all_com_widgets_UroPhoto_16633440" style="max-width: 1654px;"><!--cm4all.com.widgets.UroPhoto--></a></div><div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; max-width: 1654px;" id="uroPhotoOuterSTRATP_cm4all_com_widgets_UroPhoto_16633440"><picture><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-2600?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-5200?_=1624ef6c550 2x" media="(min-width:1600px)"><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-1600?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-2600?_=1624ef6c550 2x" media="(min-width:1200px)"><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-1200?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-1600?_=1624ef6c550 2x" media="(min-width:800px)"><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-800?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-1200?_=1624ef6c550 2x" media="(min-width:400px)"><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-400?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-800?_=1624ef6c550 2x" media="(min-width:200px)"><source srcset="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-200?_=1624ef6c550 1x, /.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/picture-400?_=1624ef6c550 2x" media="(min-width:100px)"><img src="/.cm4all/uproc.php/0/Logo%20oefentherapie/.Sabine%20Lemeer%20Ruggegraat%20PMS299-gedraaid.png/scale?_=1624ef6c550" alt="" width="100%" title="" onerror="uroMain().util.error(this, '')"></picture><script type="text/javascript">
 
-  <h4>Welke klachten en aandoeningen worden behandeld?</h4>
-  <div class="row">
-      <div class="col s12 m4">
-          <h5>Houdings- en bewegingsklachten</h5>
-          <ul>
-              <li>scoliose, kyfose en/of lordose</li>
-              <li>lage rugklachten</li>
-              <li>nek- en schouderklachten</li>
-              <li>hoofdpijnklachten</li>
-              <li>bekkenklachten</li>
-              <li>heup-, knie- en voetklachten</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>Orthopedische aandoeningen</h5>
-          <ul>
-              <li>post operatieve therapie bij: heup- knie- en herniaoperaties</li>
-              <li>revalidatie na fracturen</li>
-              <li>ziekte van Scheuermann</li>
-              <li>osteoprose</li>
-              <li>artrose</li>
-              <li>spondylose/spondylolisthesis</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>Neurologische aandoeningen:</h5>
-          <ul>
-              <li>ziekte van Parkinson</li>
-              <li>Multiple Sclerose</li>
-              <li>uitstralende zenuwpijn (pseudo) radiculair syndroom</li>
-              <li>hernia</li>
-          </ul>
-      </div>
-  </div>
-  <div class="row">
-      <div class="col s12 m4">
-          <h5>Reumatische aandoeningen:</h5>
-          <ul>
-              <li>reumatoïde artritis</li>
-              <li>fibromyalgie</li>
-              <li>ziekte van Bechterew</li>
-              <li>gewrichtsklachten in het algemeen</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>Ademtechniek verbetering en ontspanning:</h5>
-          <ul>
-              <li>COPD/astma en andere longaandoeningen</li>
-              <li>hyperventilatie/paniekstoornis</li>
-              <li>stressgerelateerde klachten</li>
-              <li>spierspanningshoofdpijn</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>Revalidatie na trauma:</h5>
-          <ul>
-              <li>whiplash</li>
-              <li>fracturen</li>
-              <li>sportblessures</li>
-          </ul>
-      </div>
-  </div>
-  <div class="row">
-      <div class="col s12 m4">
-          <h5>Preventie en bestrijding van beroepsklachten:</h5>
-          <ul>
-              <li>klachten aan nek en schouder (KANS)</li>
-              <li>klachten t.g.v. beeldschermwerk</li>
-              <li>rugklachten bij tilberoepen, o.a. in de zorgsector, bouw en logistiek\</li>
-          </ul>
-      </div>
-      <div class="col s12 m4">
-          <h5>klachten ontstaan tijdens de zwangerschap en/of na de bevalling</h5>
-          <ul>
-              <li>urine incontinentie</li>
-              <li>S.I. problematiek</li>
-          </ul>
-      </div>
+\    (function() {
+
+\    var wiid = 'STRATP_cm4all_com_widgets_UroPhoto_16633440';
+
+\    
+
+\    var src = jQuery("#uroPhotoOuter" + wiid + " img").attr("src");
+
+                    jQuery("<img/>").attr("src", src).load(function() {
+
+\    /\* see 10568/10534 \*/
+
+\    jQuery("\[id$='"+wiid+"']").css({"max-width":this.width});
+
+                    });
+
+\    
+
+\    }());
+
+\    </script><span></span></div></div><p style="text-align: center;">&nbsp;Deel deze pagina:</p><div class="clearFloating" style="clear:both;height: 0px; width: auto;"></div><div id="widgetcontainer_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403" class="cm_widget_block      cm_widget com_cm4all_wdn_social_SocialBookmark cm_widget_block_center cm-pixel-large" style="width:100%; max-width:100%; "><div class="cm_widget_anchor"><a name="STRATP_com_cm4all_wdn_social_SocialBookmark_14542403" id="widgetanchor_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403"><!--com.cm4all.wdn.social.SocialBookmark--></a></div><script type="text/javascript">
+
+window.cm4all.widgets.register( '/Therapie-n/Wanneer-oefentherapie/index.php/', '', '', 'STRATP_com_cm4all_wdn_social_SocialBookmark_14542403');
+
+</script>
+
+		<script type="text/javascript">
+
+	(function() {
+
+	
+
+	
+
+		/*
+
+		var commonWidget = new cm4all.Common.Widget({
+
+			base	: "/Therapie-n/Wanneer-oefentherapie/index.php/",
+
+			session	: "",
+
+			frame	: "",
+
+			path	: "STRATP_com_cm4all_wdn_social_SocialBookmark_14542403"
+
+		});
+
+\*/
+
+
+
+		var links = \["css\/show.min.css?version=3.css"];
+
+		for( var i=0; i<links.length; i++) {
+
+			if( links\[i].indexOf( '@')==0) {
+
+				links\[i] = "/.cm4all/widgetres.php/com.cm4all.wdn.social.SocialBookmark/" + links\[i].substring( 2);
+
+			} else if( links\[i].indexOf( '/')!=0) {
+
+				//links\[i] = commonWidget.createUrl( links\[i]);
+
+				//links\[i] = beng_widget_uri( "/Therapie-n/Wanneer-oefentherapie/index.php/", "", "", "STRATP_com_cm4all_wdn_social_SocialBookmark_14542403", "partial", links\[i]);
+
+				links\[i] = window.cm4all.widgets\[ 'STRATP_com_cm4all_wdn_social_SocialBookmark_14542403'].url( links\[i]);
+
+			}
+
+		}
+
+		cm4all.Common.loadCss( links);
+
+		
+
+		var scripts = \[];
+
+		for( var i=0; i<scripts.length; i++) {
+
+			if( scripts\[i].indexOf( '@')==0) {
+
+				scripts\[i] = "/.cm4all/widgetres.php/com.cm4all.wdn.social.SocialBookmark/" + scripts\[i].substring( 2);
+
+			} else if( scripts\[i].indexOf( '/')!=0) {
+
+				//scripts\[i] = commonWidget.createUrl( scripts\[i]);
+
+				//scripts\[i] = beng_widget_uri( "/Therapie-n/Wanneer-oefentherapie/index.php/", "", "", "STRATP_com_cm4all_wdn_social_SocialBookmark_14542403", "partial", scripts\[i]);
+
+				scripts\[i] = window.cm4all.widgets\[ 'STRATP_com_cm4all_wdn_social_SocialBookmark_14542403'].url( scripts\[i]);
+
+			}
+
+		}
+
+
+
+		var deferred = jQuery.Deferred();
+
+		window.cm4all.widgets\[ 'STRATP_com_cm4all_wdn_social_SocialBookmark_14542403'].ready = (function() {
+
+			var ready = function ready( handler) {
+
+				deferred.done( handler);
+
+			};
+
+			return deferred.promise( ready);
+
+		})();
+
+		cm4all.Common.requireLibrary( scripts, function() {
+
+			deferred.resolveWith( window.cm4all.widgets\[ 'STRATP_com_cm4all_wdn_social_SocialBookmark_14542403']);
+
+		});
+
+	})();
+
+</script><ul id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-socialBookmarks" class="com_2ecm4all_2ewdn_2esocial_2eSocialBookmark-socialBookmarks
+
+						com_2ecm4all_2ewdn_2esocial_2eSocialBookmark-simple												com_2ecm4all_2ewdn_2esocial_2eSocialBookmark-inherit		">
+
+<li>
+
+			<a id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-sociallink-platform-email" onclick="this.href = 'mailto:?subject='+document.title+'&amp;body='+window.location.href;" target="_blank" href="mailto:?subject=&amp;body=" title="E-mail">
+
+				<i class="fa fa-envelope-o"></i>
+
+			</a>
+
+		</li><li>
+
+			<a id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-sociallink-platform-facebook" onclick="this.href = 'http://www.facebook.com/sharer.php?u=' + encodeURIComponent(window.location.href);" target="_blank" href="http://www.facebook.com/sharer.php" title="Facebook">
+
+				<i class="fa fa-facebook"></i>
+
+			</a>
+
+		</li><li>
+
+			<a id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-sociallink-platform-google-plus" onclick="this.href = 'https://plus.google.com/share?url=' + encodeURIComponent(window.location.href);" target="_blank" href="https://plus.google.com/share?url=" title="Google+">
+
+				<i class="fa fa-google-plus"></i>
+
+			</a>
+
+		</li><li>
+
+			<a id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-sociallink-platform-twitter" onclick="this.href = 'https://twitter.com/share?text=' + encodeURIComponent(document.title) + '&amp;url=' + encodeURIComponent(window.location.href)" target="_blank" href="http://twitter.com/share?text=&amp;url=" title="Twitter">
+
+				<i class="fa fa-twitter"></i>
+
+			</a>
+
+		</li><li>
+
+			<a id="C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-sociallink-platform-linkedin" onclick="this.href = 'https://www.linkedin.com/shareArticle?mini=true&amp;url=' + encodeURIComponent(window.location.href) + '&amp;title=' + encodeURIComponent(document.title)" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=" title="LinkedIn">
+
+				<i class="fa fa-linkedin"></i>
+
+			</a>
+
+		</li></ul>
+
+<script type="text/javascript">
+
+(function($) {
+
+	if (!/FontAwesome/i.test($('.fa').css('font-family'))) {
+
+		$.getJSON('//c4t.cc/font-awesome,version=4?format=json', function(data) {
+
+			if (data.resources && $.isArray(data.resources.css)) {
+
+				window.Common.loadCss(data.resources.css);
+
+			}
+
+		});
+
+	}
+
+
+
+	var $element = $('#C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-socialBookmarks.com_2ecm4all_2ewdn_2esocial_2eSocialBookmark-invert');
+
+	if ($element.length > 0) {
+
+		while ($element\[0] !== document) {
+
+			var bc = $element.css('background-color');
+
+			if (bc != 'transparent' && !/rgba\(\d+,\d+,\d+,0\)/.test(bc.replace(/\s/g, ''))) {
+
+				$('#C_STRATP_com_cm4all_wdn_social_SocialBookmark_14542403__-socialBookmarks.com_2ecm4all_2ewdn_2esocial_2eSocialBookmark-invert i').css('color', bc);
+
+				break;
+
+			}
+
+			$element = $element.parent();
+
+		}
+
+	}
+
+})(jQuery);
+
+</script></div><div xmlns:e="http://cm4all.com/sites/editor" style="clear: both;" id="cm_bottom_clearer" contenteditable="false"></div></div>
