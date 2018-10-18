@@ -9,10 +9,6 @@ nav {z-index: 3;}
 header {z-index: 2;}
 #nav-bg {z-index: 1;}
 
-.card.tiny {
-  background-image: url('https://via.placeholder.com/100x150s')
-}
-
 .card.tiny .card-action {
   position: absolute;
   bottom: 0;
@@ -25,12 +21,17 @@ header {z-index: 2;}
   position: relative;
 }
 
+.card-title {
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
 //
 body {
   background: #eee;
 }
 
 nav {
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
 	position: fixed;
   top: 0;
 }
