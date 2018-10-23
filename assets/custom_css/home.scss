@@ -2,47 +2,38 @@
 ---
 
 $assets_url: "https://cesartiel.netlify.com/";
-$animation-delay: 6s;
-
-// Z-INDEX TROUBLESHOOTING
-nav {z-index: 3;}
-header {z-index: 2;}
-#nav-bg {z-index: 1;}
-
-.card.tiny .card-action {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
-
-.tiny {
-  height: 170px;
-  position: relative;
-}
-
-.card-title {
-  text-shadow: 1px 1px 2px rgb(0, 0, 0);
-}
-
-//
-body {
-  background: #eee;
-}
-
+$animation-delay: 6s; // Z-INDEX TROUBLESHOOTING
 nav {
-  text-shadow: 1px 1px 2px rgb(0, 0, 0);
-	position: fixed;
+  z-index: 3;
+}
+header {
+  z-index: 2;
+}
+#nav-bg {
+  z-index: 1;
+}
+.main-text {
+  font-size: 2.5em;
+  margin-bottom: 1em;
+}
+.menu-item {
+  margin: 0px 10px 0px 10px;
+}
+body {
+  background: rgb(238, 238, 238);
+}
+nav {
+  // text-shadow: 1px 1px 2px rgb(0, 0, 0);
+  position: fixed;
   top: 0;
 }
-
 header {
   position: relative;
   background-color: black;
-	padding: 1em;
-	height: 75vh;
-	&:before {
-		content: ' ';
+  padding: 1em;
+  height: 75vh;
+  &:before {
+    content: " ";
     display: block;
     position: absolute;
     left: 0;
@@ -50,8 +41,8 @@ header {
     width: 100%;
     height: 100%;
     background-image: url(#{$assets_url}assets/images/cesartherapie.jpeg);
-  	background-size: cover;
-		background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: 65% 50%;
     -webkit-transition: background 1s;
     -moz-transition: background 1s;
@@ -59,12 +50,12 @@ header {
     transition: background 1s;
   }
 }
-
 #nav-bg {
-  background: #f27f13;
+  background: #ffffff;
   position: fixed;
   height: 65px;
   width: 100%;
   top: 0;
-	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2)
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
 }

@@ -24,6 +24,6 @@ Meer informatie over Bekkenoefentherapie en oefentherapie Cesar/Mensendieck en k
 
 #### Zwangerschapscursus:
 
-Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen hen beide vergroot en daarmee het vertrouwen richting de bevalling. Zie: [www.oefentherapiepassewaaij.nl](www.oefentherapiepassewaaij.nl) Groepsbehandeling / Zwangerschapscursus: binnen de ZIB ( =Zwangeren in Beweging te Tiel). Contact persoon: Tenny van de Berg, Body-Dynamics te Tiel. Ik sta geregistreerd in het Kwaliteitsregister Paramedici. Zie ook: [www.oefentherapiepassewaaij.nl](www.oefentherapiepassewaaij.nl)
+Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen hen beide vergroot en daarmee het vertrouwen richting de bevalling. Zie: [www.oefentherapiepassewaaij.nl](https://www.oefentherapiepassewaaij.nl/) Groepsbehandeling / Zwangerschapscursus: binnen de ZIB ( =Zwangeren in Beweging te Tiel). Contact persoon: Tenny van de Berg, Body-Dynamics te Tiel. Ik sta geregistreerd in het Kwaliteitsregister Paramedici. Zie ook: [www.oefentherapiepassewaaij.nl](https://www.oefentherapiepassewaaij.nl/)
 
 ![Bekkenoefentherapie]({{ site.baseurl }}/assets/images/bekkenoefentherapie.png)

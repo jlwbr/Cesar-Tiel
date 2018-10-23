@@ -18,21 +18,21 @@ html(lang="nl")
     script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
 
   body
-    nav
-      .nav-wrapper(style="background-color: #f27f13;")
+    nav.white
+      .nav-wrapper
         a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
           span.logo {{ site.name }}
         a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
           i.material-icons menu
         ul.right.hide-on-med-and-down
           li 
-            a(href="{{ site.baseurl }}/") Home
+            a(href="{{ site.baseurl }}/").menu-text Home
           |  {% assign pages_list = site.pages | sort:"weight" %}
           |    {% for node in pages_list %}
           |      {% if node.title != null %}
           |        {% if node.layout == "page" %}
           li
-            a(href="{{ node.url }}") {{ node.title }}
+            a(href="{{ node.url }}").menu-text {{ node.title }}
           |        {% endif %}
           |      {% endif %}
           |    {% endfor %}

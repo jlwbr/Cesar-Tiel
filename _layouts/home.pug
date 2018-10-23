@@ -18,21 +18,21 @@ html(lang="nl")
     script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
 
   body
-    nav.transparent.z-depth-0
+    nav.white
       .nav-wrapper
         a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
-          span.logo {{ site.name }}
+          span.logo.black-text Oefentherapie Cesar Tiel
         a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
-          i.material-icons menu
+          i.material-icons.black-text menu
         ul.right.hide-on-med-and-down
-          li 
-            a(href="{{ site.baseurl }}/") Home
+          li.menu-item
+            a(href="{{ site.baseurl }}/").menu-text Home
           |  {% assign pages_list = site.pages | sort:"weight" %}
           |    {% for node in pages_list %}
           |      {% if node.title != null %}
           |        {% if node.layout == "page" %}
-          li
-            a(href="{{ node.url }}") {{ node.title }}
+          li.menu-item
+            a(href="{{ node.url }}" ).menu-text {{ node.title }}
           |        {% endif %}
           |      {% endif %}
           |    {% endfor %}
@@ -57,16 +57,17 @@ html(lang="nl")
     div(id="main" role="main" style='list-style : none; list-style-image : none; list-style-position : outside; list-style-type : disc;')
       | {{ content }}
 
-    footer.page-footer(style="background-color: #f27f13;")
+    footer.page-footer(style="background-color: white;")
           .container
             .row
-              h5.white-text Praktijken
+              h5.black-text Praktijken
               .col.l6.s12
-                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar Tiel-Passewaaij <br/> Reine Claude 13 <br/> 4007ZK Tiel 
+                p.black-text Praktijk voor oefentherapie Cesar Tiel-Passewaaij <br/> Reine Claude 13 <br/> 4007ZK Tiel 
               .col.l6.s12
-                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar en Psychosomatiche oefentherapie <br/> Dodewaardlaan 5 <br/> 4006EA Tiel 
+                p.black-text Praktijk voor oefentherapie Cesar en Psychosomatiche oefentherapie <br/> Dodewaardlaan 5 <br/> 4006EA Tiel 
           .footer-copyright
-            .container © 2018 Copyright Cesartherapie Tiel
+            .container 
+              p.black-text © 2018 Copyright Cesartherapie Tiel
       
 
     | {% include javascript.html %}
