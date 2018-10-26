@@ -18,24 +18,25 @@ html(lang="nl")
     script(src="https://identity.netlify.com/v1/netlify-identity-widget.js")
 
   body
-    nav.white
-      .nav-wrapper
-        a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
-          span.logo.black-text Oefentherapie Cesar Tiel
-        a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
-          i.material-icons.black-text menu
-        ul.right.hide-on-med-and-down
-          li.menu-item
-            a(href="{{ site.baseurl }}/").menu-text Home
-          |  {% assign pages_list = site.pages | sort:"weight" %}
-          |    {% for node in pages_list %}
-          |      {% if node.title != null %}
-          |        {% if node.layout == "page" %}
-          li.menu-item
-            a(href="{{ node.url }}" ).menu-text {{ node.title }}
-          |        {% endif %}
-          |      {% endif %}
-          |    {% endfor %}
+    .navbar-fixed
+      nav.white
+        .nav-wrapper
+          a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
+            span.logo.black-text Oefentherapie Cesar Tiel
+          a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
+            i.material-icons.black-text menu
+          ul.right.hide-on-med-and-down
+            li.menu-item
+              a(href="{{ site.baseurl }}/").menu-text Home
+            |  {% assign pages_list = site.pages | sort:"weight" %}
+            |    {% for node in pages_list %}
+            |      {% if node.title != null %}
+            |        {% if node.layout == "page" %}
+            li.menu-item
+              a(href="{{ node.url }}" ).menu-text {{ node.title }}
+            |        {% endif %}
+            |      {% endif %}
+            |    {% endfor %}
 
     ul.sidenav(id="mobile-menu")
       li
