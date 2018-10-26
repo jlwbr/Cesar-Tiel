@@ -21,17 +21,17 @@ html(lang="nl")
     nav.white
       .nav-wrapper
         a(class="brand-logo hide-on-small-only" href="{{ site.baseurl }}/")
-          span.logo {{ site.name }}
+          span.logo.black-text {{ site.name }}
         a( href="{{ site.baseurl }}/" data-target="mobile-menu" class="sidenav-trigger")
-          i.material-icons menu
+          i.material-icons.black-text menu
         ul.right.hide-on-med-and-down
-          li 
+          li(style='margin: 0px 10px 0px 10px;')
             a(href="{{ site.baseurl }}/").menu-text Home
           |  {% assign pages_list = site.pages | sort:"weight" %}
           |    {% for node in pages_list %}
           |      {% if node.title != null %}
           |        {% if node.layout == "page" %}
-          li
+          li(style='margin: 0px 10px 0px 10px;')
             a(href="{{ node.url }}").menu-text {{ node.title }}
           |        {% endif %}
           |      {% endif %}
@@ -58,9 +58,9 @@ html(lang="nl")
             .row
               h5.white-text  Praktijken
               .col.l6.s12
-                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar Tiel-Passewaaij <br/> Reine Claude 13 <br/> 4007ZK Tiel <br/> Tel.: 0344-613209 <br/> Mob: 06-49626926
+                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar Tiel-Passewaaij <br/> Reine Claude 13 <br/> 4007ZK Tiel  <br/> Tel.: 0344-613209 <br/> Mob: 06-49626926
               .col.l6.s12
-                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar en Psychosomatiche oefentherapie <br/> Dodewaardlaan 5 <br/> 4006EA Tiel <br/> Tel.: 0344-619398 <br/> Mob: 06-22909110
+                p.grey-text.text-lighten-4 Praktijk voor oefentherapie Cesar en Psychosomatiche oefentherapie <br/> Dodewaardlaan 5-17 <br/> 4006EA Tiel <br/> Tel.: 0344-619398 <br/> Mob: 06-22909110
           .footer-copyright
             .container © 2018 Copyright Cesartherapie Tiel
 
