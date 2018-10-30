@@ -7,7 +7,7 @@ weight: 3
 custom_js: scraper
 ---
 
-## Vergoeding
+## Vergoedingen
 
 Patiënten onder de 18 jaar, zonder chronische indicatie krijgen 18 behandelingen per jaar vergoed uit de basis verzekering. Het aantal behandelingen daarna, dat uit de aanvullende verzekering vergoed wordt is afhankelijk van het gekozen pakket.
 
