@@ -6,7 +6,7 @@ thumbnail:
 weight: 4
 ---
 
-# Kwaliteit
+## Kwaliteit
 Om de kwaliteit van onze praktijk te behouden en te verbeteren richten we ons op het volgende:
 
 #### Lidmaatschap VvOCM
