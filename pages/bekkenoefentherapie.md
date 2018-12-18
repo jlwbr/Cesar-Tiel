@@ -1,6 +1,6 @@
 ---
 layout: page
-? title
+title:
 permalink: /bekkenoefentherapie/
 weight: 0
 ---
@@ -19,10 +19,12 @@ Meer informatie over Bekkenoefentherapie en oefentherapie Cesar/Mensendieck en k
 
 - www.oefentherapiepassewaaij.nl, waarin informatie staat over de individuele zwangerschapscursus en de ZIB sportgroep voor zwangeren, waarin een aantal workshops gegeven worden verspreid over het jaar specifiek voor de zwangeren
 - de website van de VvOCM de vereniging van oefentherapeuten Cesar en Mensendieck
-- You-Tube: “Bekkenoefentherapie” ( filmpje over de bekkenoefentherapeut)
+- You-Tube: “Bekkenoefentherapie” (filmpje over de bekkenoefentherapeut)
 
 #### Zwangerschapscursus:
 
-Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen beide vergroot en daarmee het vertrouwen richting de bevalling. Zie: [www.oefentherapiepassewaaij.nl](https://www.oefentherapiepassewaaij.nl/) Groepsbehandeling / Zwangerschapscursus: binnen de ZIB ( =Zwangeren in Beweging te Tiel). Contact persoon: Tenny van de Berg, Body-Dynamics te Tiel. Ik sta geregistreerd in het Kwaliteitsregister Paramedici.
+Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen beide vergroot en daarmee het vertrouwen richting de bevalling. Zie: [www.oefentherapiepassewaaij.nl](https://www.oefentherapiepassewaaij.nl/) Groepsbehandeling / Zwangerschapscursus: binnen de ZIB ( =Zwangeren in Beweging te Tiel). Ik sta geregistreerd in het Kwaliteitsregister Paramedici.
 
 ![Bekkenoefentherapie]({{ site.baseurl }}/assets/images/bekkenoefentherapeut.jpg)
+
+[![Youtube Video](http://img.youtube.com/vi/9h_JRfdoIgw/0.jpg)](https://www.youtube.com/watch?v=9h_JRfdoIgw)
