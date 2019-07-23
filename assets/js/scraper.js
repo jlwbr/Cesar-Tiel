@@ -1,12 +1,16 @@
-let name = "leenders-smits-hc"
-
 $(document).ready(function() {
-  $.getJSON('https://allorigins.me/get?url=' + encodeURIComponent("https://www.zorgwijzer.nl/vergoeding/fysiotherapie"), function(data) {
-    let content = data.contents
-    var el = $( '<div></div>' );
-    el.html(content);
-    $('#table').replaceWith($('.verzekeraars', el));
-    $('.verzekeraars').children().attr('id', 'item');
+  $.ajax({
+    url: 'https://cors.seriumtech.workers.dev/?' + "https://www.zorgwijzer.nl/vergoeding/fysiotherapie",
+    dataType: 'text',
+    success: function(data) {
+      var el = $("<div>").html(data)
+      $('#table').replaceWith($('.verzekeraars', el));
+      $('.verzekeraars').children().attr('id', 'item');
+      $(".verzekeraars tr").each(function( index ) {
+        $(this).find('td,th').last().remove();
+      });
+    }
+  });
   
     $("#search").on("keyup", function() {
       var value = $(this).val().toLowerCase().replace(/ /g, '-');
@@ -17,4 +21,3 @@ $(document).ready(function() {
       }
     });
   });
-});
