@@ -27,4 +27,4 @@ Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede
 
 ![Bekkenoefentherapie]({{ site.baseurl }}/assets/images/bekkenoefentherapeut.jpg)
 
-[![Youtube Video](http://img.youtube.com/vi/9h_JRfdoIgw/0.jpg)](https://www.youtube.com/watch?v=9h_JRfdoIgw)
+[![Youtube Video](https://img.youtube.com/vi/9h_JRfdoIgw/0.jpg)](https://www.youtube.com/watch?v=9h_JRfdoIgw)
