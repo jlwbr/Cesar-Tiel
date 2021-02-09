@@ -26,15 +26,15 @@ Voor behandelingen die niet tenmiste 24 uur van te voren zijn afgezegd, heeft de
 
 # Tarievenlijst
 
-|Reguliere behandeling oefentherapie|€ 35,00|
-|Psychosomatische oefentherapie|€ 45,00|
-Screening 10 minuten|€ 15,00|
-Screening, intake en onderzoek|€ 50,00|
-Intake en onderzoek na verwijzing|€ 50,00|
-Toeslag behandeling aan huis|€ 17,50|
-Telefonisch consult|€ 15,00|
-Niet nagekomen afspraak|€ 25,00|
-Eenmalig oefentherapeutisch onderzoek|€ 60,00|
+|Reguliere behandeling oefentherapie|€ 37,00|
+|Psychosomatische oefentherapie|€ 47,00|
+Screening 10 minuten|€ 17,00|
+Screening, intake en onderzoek|€ 52,00|
+Intake en onderzoek na verwijzing|€ 52,00|
+Toeslag behandeling aan huis|€ 19,50|
+Telefonisch consult|€ 17,00|
+Niet nagekomen afspraak|€ 27,00|
+Eenmalig oefentherapeutisch onderzoek|€ 62,00|
 
 <input type="text"
       id="search" placeholder="Zoek verzekering" />
