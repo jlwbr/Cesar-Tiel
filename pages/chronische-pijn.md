@@ -15,4 +15,4 @@ Pijn kan echter ook chronisch worden. We spreken van chronische pijn, wanneer pi
 
 Voor meer informatie kunt u terecht op de website van het [Netwerk Chronische Pijn](https://netwerkchronischepijn.nl/home/)
 
-[![Youtube Video](http://img.youtube.com/vi/J9YYlDBWzeI/0.jpg)](https://www.youtube.com/watch?v=J9YYlDBWzeI)
+[![Youtube Video](https://img.youtube.com/vi/J9YYlDBWzeI/0.jpg)](https://www.youtube.com/watch?v=J9YYlDBWzeI)
