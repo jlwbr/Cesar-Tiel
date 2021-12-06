@@ -6,6 +6,11 @@ $(document).ready(function() {
       var el = $("<div>").html(data)
       $('#table').replaceWith($('.verzekeraars', el));
       $('.verzekeraars').children().attr('id', 'item');
+      $('#item.cell.box').remove();
+      $('form#item.feedback').remove();
+      $(".verzekeraars h3").each(function( index ) {
+        $(this).parent().remove();
+      });
       $(".verzekeraars tr").each(function( index ) {
         $(this).find('td,th').last().remove();
       });
