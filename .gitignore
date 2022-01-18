@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 .pug-cache
+node_modules
+.cache
