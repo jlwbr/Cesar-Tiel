@@ -13,6 +13,6 @@ Pijn kan echter ook chronisch worden. We spreken van chronische pijn, wanneer pi
 
 ““Ik was altijd gewend dat ik te horen kreeg wat ik moest doen en nu moest ik ineens zelf meedenken. Was dat niet de taak van de deskundige? Maar het bleek voor mij te werken. Ik ken mijn eigen lichaam het best. Ik weet wat ik wel en niet kan en de oefentherapeut speelt daar op in." – Patiënt J. de V.
 
-Voor meer informatie kunt u terecht op de website van het [Netwerk Chronische Pijn](https://netwerkchronischepijn.nl/home/)
+Voor meer informatie kunt u terecht op de website van het [Netwerk Chronische Pijn](https://www.netwerkchronischepijn.nl/)
 
-[![Youtube Video](https://img.youtube.com/vi/J9YYlDBWzeI/0.jpg)](https://www.youtube.com/watch?v=J9YYlDBWzeI)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J9YYlDBWzeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

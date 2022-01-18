@@ -1,0 +1,38 @@
+---
+layout: page
+title: Therapeuten
+permalink: /therapeuten
+thumbnail:
+weight: 5
+---
+<div class="row">
+  <div class="col s2">
+    <div class="valign-wrapper"><img src="{{ site.baseurl }}/assets/images/foto_christien.jpg" width="100%" style="margin-top: 40px;"/></div>
+  </div>
+  <div class="col s10" markdown="1">
+### Christien Leenders
+Sinds 1983 ben ik werkzaam als oefentherapeut Cesar en behandel ik zowel kinderen als volwassenen met houdings- en bewegingsklachten, ademhalings- en spanningsklachten. Daarnaast heb ik mij in de loop der jaren gespecialiseerd in chronische pijntherapie, slaapoefentherapie, hartcoherentie en mindfulnesstraining. Bovendien ben ik geregistreerd Psychosomatisch oefentherapeut en neem ik deel in het Kind Expertise Centrum (KEC). Dit is een samenwerkingsverband tussen een logopedist, kinderfysiotherapeut, kinderoefentherapeut, psychosomatisch-/slaapoefentherapeut, orthopedagoog en een orthomoleculair diëtist om voor kinderen met multi problematiek tussen 0 en 18 jaar een snelle diagnostisering mogelijk te maken, waarna, indien nodig, een multidisciplinair behandeltraject volgt. 
+  </div>
+</div>
+<div class="row">
+  <div class="col s10" markdown="1">
+### Carola Pals
+
+Met 38 jaar werkervaring als oefentherapeut Cesar in Tiel, heb ik een brede kijk op de houding en de manier van bewegen van de patiënt. Er zijn vele mogelijkheden om het bewustmakingsproces voor verbetering van de houding en de beweging aan te leren. De patiënt wordt hierin met veel individuele aandacht begeleidt. 
+           
+Ik ben Bekkenoefentherapie voor klachten rond de lage rug en het bekken, o.a. bij schaambeen-,stuit- bil-, heupklachten en klachten rond de SI-gewrichten. Er is een samenwerkingsverband met zorgverleners vanuit Zwangeren in Beweging. Daarnaast sta ik geregistreerd als Schroth Best Practice therapeut, dit is een driedimensionale specifieke oefenmethode bij behandeling van scoliose.
+  </div>
+  <div class="col s2"><img src="{{ site.baseurl }}/assets/images/Home1.jpg" width="100%" style="margin-top: 40px;"/></div>
+</div>
+<div class="row">
+  <div class="col s2">
+    <img src="{{ site.baseurl }}/assets/images/foto_miranda_de_stigter.jpg" width="100%" style="margin-top: 40px;"/>
+  </div>
+  <div class="col s10" markdown="1">
+### Miranda de Stigter
+
+Na mijn afstuderen in 2001 ben ik in Geldermalsen gaan werken als oefentherapeut Cesar. Hier heb ik al weer heel wat jaren mijn eigen praktijk, waarmee ik in het Eerstelijnscentrum de Pluk gevestigd ben. Sinds September 2019 ben ik ook als oefentherapeut werkzaam in de praktijk van Christien Leenders in het ECT aan de Dodewaardlaan en ik heb het hier erg goed naar mijn zin. 
+            
+Omdat ik mensen graag nog beter wilde kunnen helpen ben ik de opleiding psychosomatische oefentherapie gaan volgen. Door deze vervolgopleiding zie ik mensen met veel verschillende soorten klachten. Ik behandel zowel houdingsafhankelijke als psychosomatische klachten. Naast veel volwassenen zie ik veel jongeren en kinderen met spanningsklachten met een lichamelijke uittingsvorm. Deze afwisseling maakt mijn werk voor mij extra leuk. Het behandelen van chronische pijnklachten en/of SOLK zie ik als een mooie uitdaging. Het vraagt een bijzondere aanpak en door de samenwerking met meerdere disciplines zie ik goede resultaten. Inmiddels werk ik ook als slaapoefentherapeut en ben hier erg enthousiast over. 
+  </div>
+</div>
