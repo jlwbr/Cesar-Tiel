@@ -17,13 +17,12 @@ Oefentherapie Cesar is een paramedische behandelmethode, gericht op de behandeli
 
 Meer informatie over Bekkenoefentherapie en oefentherapie Cesar/Mensendieck en kunt u vinden op:
 
-- www.oefentherapiepassewaaij.nl, waarin informatie staat over de individuele zwangerschapscursus en de ZIB sportgroep voor zwangeren, waarin een aantal workshops gegeven worden verspreid over het jaar specifiek voor de zwangeren
 - de website van de VvOCM de vereniging van oefentherapeuten Cesar en Mensendieck
 - You-Tube: “Bekkenoefentherapie” (filmpje over de bekkenoefentherapeut)
 
 #### Zwangerschapscursus:
 
-Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen beide vergroot en daarmee het vertrouwen richting de bevalling. Zie: [www.oefentherapiepassewaaij.nl](https://www.oefentherapiepassewaaij.nl/) Groepsbehandeling / Zwangerschapscursus: binnen de ZIB ( =Zwangeren in Beweging te Tiel). Ik sta geregistreerd in het Kwaliteitsregister Paramedici.
+Individueel: voor de zwangere en de partner, omdat ik ervan uit ga dat een goede voorbereiding de binding tussen beide vergroot en daarmee het vertrouwen richting de bevalling. Info kunt u opvragen via het mail adres: [cpals@oefentherapiecesartiel.nl](mailto:cpals@oefentherapiecesartiel.nl). Ik sta geregistreerd in het Kwaliteitsregister Paramedici.
 
 ![Bekkenoefentherapie]({{ site.baseurl }}/assets/images/bekkenoefentherapeut.jpg)
 
