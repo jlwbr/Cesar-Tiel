@@ -22,7 +22,7 @@ Met 38 jaar werkervaring als oefentherapeut Cesar in Tiel, heb ik een brede kijk
            
 Ik ben Bekkenoefentherapie voor klachten rond de lage rug en het bekken, o.a. bij schaambeen-,stuit- bil-, heupklachten en klachten rond de SI-gewrichten. Daarnaast sta ik geregistreerd als Schroth Best Practice therapeut, dit is een driedimensionale specifieke oefenmethode bij behandeling van scoliose. 
 
-Op verzoek geef ik gedurende 1,5-2 uur een zwangerschapscursus aan de zwangere en haar partner. Info aanvragen op [cpals@oefentherapiecesartiel.nl](mailto:cpals@oefentherapiecesartiel.nl).
+Op verzoek geef ik gedurende 2-2,5 uur een zwangerschapscursus aan de zwangere en haar partner. Info aanvragen op [cpals@oefentherapiecesartiel.nl](mailto:cpals@oefentherapiecesartiel.nl).
 
   </div>
   <div class="col s2"><img src="{{ site.baseurl }}/assets/images/Home1.jpg" width="100%" style="margin-top: 40px;"/></div>
